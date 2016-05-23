@@ -1,0 +1,24 @@
+{
+  "name": "es6-prax",
+  "version": "1.0.0",
+  "description": "Practice setting up gulp/babel with ES6 codebase",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikquinn/es6-prax.git"
+  },
+  "author": "Erik Quinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erikquinn/es6-prax/issues"
+  },
+  "homepage": "https://github.com/erikquinn/es6-prax#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
